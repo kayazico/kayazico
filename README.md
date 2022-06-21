@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayazico
 - 👀 I’m interested in blockchain, smart contract development, De Fi, web3 and various blockchain technologies.
-- 🌱 I’m currently learning web3, rust, solidity and ERC-721 contracts
+- 🌱 I’m currently learning web3, rust, solidity and EVM
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me https://www.linkedin.com/in/kayacanyildiz/
 
